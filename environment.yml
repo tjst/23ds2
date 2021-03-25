@@ -3,8 +3,8 @@ channels:
 - conda-forge
 dependencies:
 # Jupyter
-- jupyterlab=3
-- jupyter-offlinenotebook=0.2
+# - jupyterlab=3
+# - jupyter-offlinenotebook=0.2
 - nodejs=12
 - nbconvert=6
 # Python Kernel
