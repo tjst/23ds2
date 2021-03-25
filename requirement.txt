@@ -1,0 +1,7 @@
+sympy
+plotly
+matplotlib
+japanize-matplotlib
+pandas
+scikit-learn
+seaboarn
