@@ -2,7 +2,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6
+  - python=3.8
   - cython
   - ipython
   - ipyparallel
@@ -22,3 +22,4 @@ dependencies:
   - pip
   - pip:
     - japanize-matplotlib
+    - pygraphviz
