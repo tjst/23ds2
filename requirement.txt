@@ -1,8 +1,0 @@
-sympy
-numpy
-plotly
-matplotlib
-japanize-matplotlib
-pandas
-scikit-learn
-seaboarn
