@@ -22,6 +22,5 @@ dependencies:
   - pip
   - pip:
     - japanize-matplotlib
-    - pygraphviz
     - pydotplus
     - pydot
