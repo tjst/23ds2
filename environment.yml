@@ -20,6 +20,8 @@ dependencies:
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
   - pytorch
+  - torchvision
+  - torchaudio
   - pip:
     - japanize-matplotlib
     - pydotplus
