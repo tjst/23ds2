@@ -19,7 +19,7 @@ dependencies:
   - seaborn
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
-  - pytorch torchvision torchaudio cpuonly -c pytorch
+  - pytorch
   - pip
   - pip:
     - japanize-matplotlib
