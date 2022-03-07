@@ -21,6 +21,7 @@ dependencies:
   - jupyter_nbextensions_configurator
   - pytorch
   - torchvision
+  - pip
   - pip:
     - torchaudio
     - japanize-matplotlib
