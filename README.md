@@ -1,2 +1,2 @@
-# 21ds2_cloud
- jupyter環境+graphviz
+# 22ds2_cloud
+ jupyterlab環境 + pytorch 
