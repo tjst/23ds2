@@ -1,25 +1,29 @@
+name: ritmath-22ds2
 channels:
+  - anaconda
   - conda-forge
-  - defaults
-dependencies:
-  - python=3.9
-  - cython
-  - ipython
-  - ipyparallel
-  - ipywidgets
-  - numpy
-  - matplotlib
-  - mpi4py
-  - networkx
-  - pandas
-  - scikit-image
-  - scikit-learn
-  - sympy
-  - plotly
-  - seaborn
   - pytorch
-  - torchvision
-  - pip
+dependencies:
+- python=3.9
+- numpy
+- scipy
+- pandas
+- matplotlib
+- plotly
+- seaborn
+- scikit-learn
+- ipython
+- notebook
+- pytorch-cpu
+- torchvision-cpu
+- opencv
+- pillow
+- ipython
+- cython
+- networkx
+- scikit-image
+- sympy
+- pip
   - pip:
     - torchaudio
     - japanize-matplotlib
