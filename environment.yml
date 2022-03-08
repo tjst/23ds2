@@ -2,7 +2,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8
+  - python=3.9
   - cython
   - ipython
   - ipyparallel
@@ -17,8 +17,6 @@ dependencies:
   - sympy
   - plotly
   - seaborn
-  - jupyter_contrib_nbextensions
-  - jupyter_nbextensions_configurator
   - pytorch
   - torchvision
   - pip
