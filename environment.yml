@@ -24,7 +24,7 @@ dependencies:
 - scikit-image
 - sympy
 - pip
-  - pip:
+- pip:
     - torchaudio
     - japanize-matplotlib
     - pydotplus
