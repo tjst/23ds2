@@ -1,5 +1,6 @@
 channels:
   - conda-forge
+  - pytorch
   - defaults
 dependencies:
   - python=3.9
@@ -17,8 +18,8 @@ dependencies:
   - sympy
   - plotly
   - seaborn
-  - pytorch
-  - torchvision
+  - pytorch-cpu
+  - torchvision-cpu
   - pip
   - pip:
     - torchaudio
