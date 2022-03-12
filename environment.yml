@@ -5,6 +5,7 @@ channels:
   - pytorch
 dependencies:
 - python=3.8
+- jupyterlab 
 - numpy
 - scipy
 - pandas
@@ -26,8 +27,7 @@ dependencies:
 - pip
 - pip:
     - torchaudio
-    - japanize-matplotlib
+#    - japanize-matplotlib
     - pydotplus
     - pydot
-    - tensorflow
     - jupyterlab_widgets
