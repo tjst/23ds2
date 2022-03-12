@@ -30,3 +30,4 @@ dependencies:
     - pydotplus
     - pydot
     - tensorflow
+    - jupyterlab_widgets
