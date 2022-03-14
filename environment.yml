@@ -12,7 +12,7 @@ dependencies:
 - matplotlib
 - plotly
 - seaborn
-- scikit-learn
+- scikit-learn=1.0.2
 - ipython
 - notebook
 - pytorch-cpu
@@ -27,7 +27,7 @@ dependencies:
 - pip
 - pip:
     - torchaudio
-#    - japanize-matplotlib
+    - japanize-matplotlib
     - pydotplus
     - pydot
     - jupyterlab_widgets
