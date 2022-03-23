@@ -27,7 +27,7 @@ dependencies:
 - pip
 - pip:
     - torchaudio
-#    - japanize-matplotlib
+    - japanize-matplotlib
     - pydotplus
     - pydot
     - jupyterlab_widgets
