@@ -1,4 +1,4 @@
-# Google Colaborator の基本的な使いかた
+ Google Colaborator の基本的な使いかた
 
 <center><img src="../img/googlecolab_overview.png" width=800></center>
 
@@ -8,17 +8,20 @@
 + (セルの実行) セルをクリックして焦点セルにする。上下矢印でも焦点セルを変更できる。
 
     + 焦点のコードセルを実行するには、行頭の黒丸に▶の印をクリックする。あるいは、`Shift+改行`
+
+       <img src="../img/googlecolab_実行.png" width=700>
+	 
 	+ 焦点のテキストセルを整形するには `Shift+改行`。テキストセルを編集するにはダブルクリックする。
+
+    + 出力の非表示・表示:  メニュー ＞ 表示 ＞ 出力を表示／非表示 (ショートカット ⌘MO )
 
 + (セルの作成) 選択したセルの少し下にカーソルを置くと`＋コード、＋テキスト` と表示されるので、クリックすると次行にセルが作成される。
 
      <img src="../img/googlecolab_cell_next1.png" width=700>
 
-
-    + 上に作成するには、選択したセルの少し上にカーソルをおけばよい.
+    + 前行にセルを作成するには、選択したセルの少し上にカーソルをおけばよい.
 
      <img src="../img/googlecolab_cell_prev.png" width=700>
-
 
     + コードセルをテキストセルに変換するには`⌘MM`、テキストセルをコードセルに変換するには`⌘MY`. 
 
@@ -28,7 +31,7 @@
 
 + (目次の表示) 左の垂直メニューの目次アイコンのクリックで、目次パネルの表示・非表示ができる。
 
-+ コードセルで
++ コードセルの中で
 
    + 選択行をインデントは`TAB`、選択行のインデントの解除は `Shift+Tab`
 
@@ -46,18 +49,9 @@
 
 <center><img src="../img/menu_file.png" width=500></center>
 
-<!-- ## 3 メニュー＞編集 -->
-<!-- <center><img src="../img/menu_edit.png" width=500></center> -->
-
-<!-- ## 4 メニュー＞表示 -->
-<!-- <img src="../img/menu_hyouji.png" width=500> -->
 
 ## 3 初級. メニュー＞ランタイム
 <center><img src="../img/menu_runtime.png" width=500></center>
-
-<!-- ## 6 メニュー＞ツール -->
-<!-- <img src="../img/menu_tool.png" width=500> -->
-
 
 ## 4 中級. セル操作(2) 
 + セルの選択
