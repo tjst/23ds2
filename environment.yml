@@ -6,7 +6,6 @@ channels:
 dependencies:
 - python=3.8
 - jupyterlab 
-- jupyter_server
 - numpy
 - scipy
 - pandas
@@ -25,10 +24,8 @@ dependencies:
 - networkx
 - scikit-image
 - sympy
-- ipywidgets
 - pip
 - pip:
-    - MarkupSafe==2.0.1
     - torchaudio
     - japanize-matplotlib
     - pydotplus
