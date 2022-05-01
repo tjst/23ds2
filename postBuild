@@ -1,11 +1,1 @@
-# jupyter contrib nbextension install --user
-# jupyter nbextensions_configurator enable --user
-# jupyter nbextension enable codefolding/main
-# jupyter nbextension enable toc2/main
-# jupyter nbextension enable collapsible_headings/main
-# jupyter nbextension enable execute_time/ExecuteTime
-# jupyter nbextension enable --py widgetsnbextension
-jupyter labextension install jupyterlab-plotly
-jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget
-jupyter labextension install @jupyter-widgets/jupyterlab-manager --minimize=False
-# cd ./22ds2
+jupyter labextension install @jupyter-widgets/jupyterlab-manager

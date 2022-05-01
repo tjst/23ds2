@@ -1,32 +1,22 @@
-name: ritmath-22ds2
+name: env_jupyter
 channels:
-  - anaconda
   - conda-forge
-  - pytorch
 dependencies:
-- python=3.8
-- jupyterlab 
-- numpy
-- scipy
-- pandas
-- matplotlib
-- plotly
-- seaborn
-- scikit-learn
-- ipython
-- notebook
-- pytorch-cpu
-- torchvision-cpu
-- opencv
-- pillow
-- ipython
-- cython
-- networkx
-- scikit-image
-- sympy
-- pip
-- pip:
-    - torchaudio
+  - jupyterlab
+  - numpy
+  - sympy
+  - scipy
+  - matplotlib
+  - plotly
+  - scikit-learn
+  - pandas
+  - seaborn
+  - networkx
+  - ipywidgets
+  - pytorch
+  - nodejs
+  - pip 
+  - pip:
     - japanize-matplotlib
     - pydotplus
     - pydot
