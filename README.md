@@ -1,2 +1,2 @@
-# 22ds2_cloud
- jupyterlab環境 + pytorch 
+# 23ds2 
+ jupyterlab環境 + tensorfield

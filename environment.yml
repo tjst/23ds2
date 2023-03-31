@@ -1,30 +1,22 @@
+name: 23ds2
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.8
-  - cython
-  - ipython
-  - ipyparallel
-  - ipywidgets
+  - jupyterlab
   - numpy
-  - matplotlib
-  - mpi4py
-  - networkx
-  - pandas
-  - scikit-image
-  - scikit-learn
   - sympy
+  - scipy
+  - matplotlib
   - plotly
+  - scikit-learn
+  - pandas
   - seaborn
-  - jupyter_contrib_nbextensions
-  - jupyter_nbextensions_configurator
-  - pytorch
-  - torchvision
-  - pip
-  - pip:
-    - torchaudio
+  - networkx
+  - ipywidgets
+  - tensorflow-cpu
+  - pip 
+  - pip: 
     - japanize-matplotlib
     - pydotplus
     - pydot
-    - tensorflow
+    - jupyterlab_widgets
