@@ -14,6 +14,7 @@ dependencies:
   - networkx
   - ipywidgets
   - jupyter-lsp
+  - jupyterlab-language-pack-ja-jp
   - tensorflow-cpu
   - pip 
   - pip: 
