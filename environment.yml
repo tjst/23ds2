@@ -13,6 +13,7 @@ dependencies:
   - seaborn
   - networkx
   - ipywidgets
+  - jupyter-lsp
   - tensorflow-cpu
   - pip 
   - pip: 
